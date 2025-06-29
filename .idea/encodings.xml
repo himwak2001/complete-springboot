@@ -3,5 +3,6 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/07_lecture_bean_scopes/request_scope/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/07_lecture_bean_scopes/session_scope/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08_dynamic_bean_initialization/dynamic-bean-initialization/src/main/java" charset="UTF-8" />
   </component>
 </project>

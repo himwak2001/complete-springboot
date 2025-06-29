@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/07_lecture_bean_scopes/request_scope/pom.xml" />
         <option value="$PROJECT_DIR$/07_lecture_bean_scopes/session_scope/pom.xml" />
+        <option value="$PROJECT_DIR$/08_dynamic_bean_initialization/dynamic-bean-initialization/pom.xml" />
       </list>
     </option>
   </component>
