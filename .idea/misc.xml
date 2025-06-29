@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/07_lecture_bean_scopes/request_scope/pom.xml" />
         <option value="$PROJECT_DIR$/07_lecture_bean_scopes/session_scope/pom.xml" />
         <option value="$PROJECT_DIR$/08_dynamic_bean_initialization/dynamic-bean-initialization/pom.xml" />
+        <option value="$PROJECT_DIR$/09_conditionalonproperty_annotation/conditional-on-property-annotation/pom.xml" />
       </list>
     </option>
   </component>
