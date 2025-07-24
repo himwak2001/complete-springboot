@@ -6,16 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="profile-annotation" />
+        <module name="aop-execution" />
         <module name="conditional-on-property-annotation" />
-        <module name="spring-boot-test" />
         <module name="dynamic-bean-initialization" />
+        <module name="profile-annotation" />
+        <module name="aop-within" />
+        <module name="spring-boot-test" />
         <module name="request-scope" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="aop-execution" options="-parameters" />
+      <module name="aop-within" options="-parameters" />
       <module name="conditional-on-property-annotation" options="-parameters" />
       <module name="dynamic-bean-initialization" options="-parameters" />
       <module name="profile-annotation" options="-parameters" />

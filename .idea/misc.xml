@@ -9,6 +9,8 @@
         <option value="$PROJECT_DIR$/08_dynamic_bean_initialization/dynamic-bean-initialization/pom.xml" />
         <option value="$PROJECT_DIR$/09_conditionalonproperty_annotation/conditional-on-property-annotation/pom.xml" />
         <option value="$PROJECT_DIR$/10_profile_annotation/profile-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/11_aop/aop-execution/pom.xml" />
+        <option value="$PROJECT_DIR$/11_aop/aop-within/pom.xml" />
       </list>
     </option>
   </component>
