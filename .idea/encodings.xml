@@ -8,5 +8,6 @@
     <file url="file://$PROJECT_DIR$/10_profile_annotation/profile-annotation/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/11_aop/aop-execution/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/11_aop/aop-within/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/12_spring_security/src/main/java" charset="UTF-8" />
   </component>
 </project>

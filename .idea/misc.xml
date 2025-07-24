@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/10_profile_annotation/profile-annotation/pom.xml" />
         <option value="$PROJECT_DIR$/11_aop/aop-execution/pom.xml" />
         <option value="$PROJECT_DIR$/11_aop/aop-within/pom.xml" />
+        <option value="$PROJECT_DIR$/12_spring_security/pom.xml" />
       </list>
     </option>
   </component>
